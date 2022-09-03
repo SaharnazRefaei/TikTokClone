@@ -6,5 +6,5 @@
 <p>✳️Ability to filtering by categories and advanced search functionalities, profile pages, suggested accounts, custom responsive design.✳️</p>
 
 <p>📍 Built using ReactJS(State Management), NextJS(file-based routing and data using server-side rendering and static generation, backend EndPoint), Typescript, and</p> 
-<p>📍 OAuth(log in and register users using Google), Sanity(manage the content of entire app),... .</P>
+<p>📍 OAuth(log in and register users using Google), Sanity(manage the content of entire app, file storage, database),... .</P>
 <p>📍 You can visit Online "MyTikTik Website" here: https://my-tik-dzqzow4k9-saharnazrefaei.vercel.app </P>
