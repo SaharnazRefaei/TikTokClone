@@ -1,4 +1,4 @@
-<p>✨MyTikTik</p>
+<p>✨TikTokClone</p>
 
 <img src="https://user-images.githubusercontent.com/102354875/188275871-380b2f07-fac7-46be-95fa-bbee2e92c865.png"></img>
 
